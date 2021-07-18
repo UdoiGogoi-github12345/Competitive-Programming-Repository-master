@@ -1,7 +1,6 @@
 /**
  * Description: Floyd Warshall (Find the all pair shortest path distances)
  * Usage: See below O(N^3)
- * Source: https://github.com/dragonslayerx
  */
 #include <iostream>
 #include <vector>
