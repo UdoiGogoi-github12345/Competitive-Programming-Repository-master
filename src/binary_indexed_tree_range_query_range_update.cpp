@@ -9,7 +9,6 @@ const int INF = 1000000000+5;
 /**
  * Description: BIT RURQ (Support range queries and range updates of 1-D array)
  * Usage: query O(lg(N)), update O(lg(N))
- * Source: https://github.com/dragonslayerx
  * Note: Use 1-based indexing
  */
 
