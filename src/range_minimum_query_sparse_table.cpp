@@ -1,7 +1,6 @@
 /**
  * Description: Range Min Query using Sparse Table
  * Usage: construct O(NlgN), query O(lg(N))
- * Source: https://github.com/dragonslayerx
  */
 #include <iostream>
 #include <cstdio>
