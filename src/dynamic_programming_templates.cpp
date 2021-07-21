@@ -1,6 +1,5 @@
 /**
  * Description: Dp, Digit-DP, Binary Exponentiation DP templates.
- * Source: https://github.com/dragonslayerx 
  */
 
 long long dp[][];
