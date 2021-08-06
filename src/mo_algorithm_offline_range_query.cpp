@@ -33,7 +33,7 @@ bool compare(Query a, Query b) {
     if (a.l/S != b.l/S) {
         return a.l/S < b.l/S;
     } else {
-        return a.r > b.r;
+        return a.r < b.r;
     }
 }
 
