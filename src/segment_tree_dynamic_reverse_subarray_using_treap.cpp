@@ -2,7 +2,6 @@
  * Description: Dynamic Segment tree (Support for inbetween insertion and array reversal)   
  * Usage: See below. insert O(lg(N)), reverse O(lg(N)), get O(lg(N))
  * Note: Override augment function appropriately for supporting distinct aggregate operation.
- * Source: https://github.com/dragonslayerx 
  */
 
 const int MAX = 100005;
