@@ -1,7 +1,6 @@
 /**
  * Description: Merge sort tree
  * Usage: construct O(Nlg(N)), query O(lg(N))
- * Source: https://github.com/dragonslayerx
  */
 
 #define MAX 30050
