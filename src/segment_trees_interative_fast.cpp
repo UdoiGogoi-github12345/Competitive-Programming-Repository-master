@@ -2,7 +2,6 @@
  * Description: Fast iterative segment tree. 
  * Usgae: build O(N), query O(lg(N)), modify O(lg(N))
  * Note: The code is taken from http://codeforces.com/blog/entry/18051
- * Source: https://github.com/dragonslayerx 
  */
 
 int n,m,q;
