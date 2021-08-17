@@ -1,7 +1,6 @@
 /**
  * Description: Dijkstra (Find shortest path from single source)
  * Usage: dijkstra O((V + E) lg(V))
- * Source: https://github.com/dragonslayerx
  */
 const int MAX = 100050;
 const int INF = 1e9;
