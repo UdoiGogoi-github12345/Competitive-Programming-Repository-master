@@ -1,7 +1,6 @@
 /**
  * Description: LCA (Finds the lowest common ancestor of two nodes in a tree)
  * Usage: LCA constructor O(Nlg(N)), query O(lg(N))
- * Source: https://github.com/dragonslayerx
  */
 
 template<typename value_type> class RMQ {
