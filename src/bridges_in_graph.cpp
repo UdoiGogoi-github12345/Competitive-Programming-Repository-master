@@ -1,7 +1,6 @@
 /**
  * Description : Bridges (Find bridges in a graph) 
  * Usage: See below O(V) 
- * Source: https://github.com/dragonslayerx 
  */
 
 #include<iostream>
