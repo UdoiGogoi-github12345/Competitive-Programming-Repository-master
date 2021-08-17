@@ -1,7 +1,6 @@
 /**
  * Desciption: Maximum bipartite matching:  
  * Usage: max matching O(E sqrt(V))
- * Source: https://github.com/dragonslayerx 
  */
 
 class Max_Bipartite_Match {
