@@ -1,7 +1,6 @@
 /**
  * Description: All pair shortest paths (Returns a matrix A where A[i][j] is the M-length shortest path from vertex i to vertex j)
  * Usage: getShortestPath O(N^3 log M)
- * Source: https://github.com/dragonslayerx
  */
 
 #include <iostream>
