@@ -1,7 +1,6 @@
 /**
  * Description: Kruskal Algorithm (Minimum Spanning Tree). 
  * Usage: See below O((V + E) lg(E))
- * Source: https://github.com/dragonslayerx 
  */
 
 #include <iostream>
