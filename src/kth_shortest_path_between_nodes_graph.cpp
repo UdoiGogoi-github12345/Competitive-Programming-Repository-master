@@ -1,7 +1,6 @@
 /**
  * Description: Finds Kth shortest path from s to t.
- * Usage : getCost O((V + E) lg(V) * k)
- * Source: https://github.com/dragonslayerx
+ * Usage : getCost O((V + E) lg(V) * k
  */
 const int INF = 1e9;
 int getCost(vector< vector< pair<int,int> > > &G, int s, int t, int k) {
