@@ -1,7 +1,6 @@
 /**
  * Description: BFS (Checks if graph is connected using BFS)
  * Usgae: isConnected O(V + E)
- * Source: https://github.com/dragonslayerx
  */
 
 int isConnected(vector<vector<int> > &G, int src){
