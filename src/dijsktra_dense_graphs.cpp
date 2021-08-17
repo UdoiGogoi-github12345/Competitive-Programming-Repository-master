@@ -1,7 +1,6 @@
 /**
  * Description: Dijkstra (Find shortest path from single source in dense graph)
  * Usage: dijkstra O(V^2) 
- * Source: https://github.com/dragonslayerx 
  */
 
 const int MAX = 1005
