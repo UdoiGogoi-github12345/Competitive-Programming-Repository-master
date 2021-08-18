@@ -2,7 +2,6 @@
  * Description: Converts integer to string and vice versa
  * Usage: toString (Converts an integer to its string representation)
  * 	toValue (Converts a string to its interger representation)
- * Source: https://github.com/dragonslayerx
  */
 
 template <typename T>
