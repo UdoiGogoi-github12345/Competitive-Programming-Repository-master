@@ -1,7 +1,6 @@
 /**
  * Description: Disjoint Set. 
  * Usage: See below O(lg(N))
- * Source: https://github.com/dragonslayerx 
  */
 
 #include <iostream>
