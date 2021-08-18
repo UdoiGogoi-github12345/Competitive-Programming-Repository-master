@@ -1,7 +1,6 @@
 /**
  * Description: Fast Input & Output
  * Usage: readInt, writeInt
- * Source: https://github.com/dragonslayerx 
  */
 
 #ifdef ONLINE_JUDGE
